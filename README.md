@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python for Data Analysis and Java for app development.
 
-- 👀 Looking for internships opportunities.
+- 👀 Looking for job opportunities.
 
 ## Reach Me Out: 
 [![Linkedin Badge](https://img.shields.io/badge/-Danillo%20Rodrigues-0099ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danillo-rodrigues/)](https://www.linkedin.com/in/danillo-rodrigues/) 
