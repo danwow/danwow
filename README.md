@@ -4,9 +4,9 @@
 
 - 🚀 I'm passionate about solving problems and learning. Always open to new chalenges and ready to face changes.
 
-- 🌱 I’m currently learning Python for Data Analysis and Java for app development.
+- 🌱 I’m currently learning Python for Data Analysis and React.js for web development.
 
-- 👀 Looking for job opportunities.
+- 👀 Looking for job or internship opportunities.
 
 ## Reach Me Out: 
 [![Linkedin Badge](https://img.shields.io/badge/-Danillo%20Rodrigues-0099ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danillo-rodrigues/)](https://www.linkedin.com/in/danillo-rodrigues/) 
