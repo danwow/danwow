@@ -4,7 +4,7 @@
 
 - 🚀 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🌱 I’m currently working as Data Engineer at Bayer Crop Science, in the R&D team.
+- 🌱 I’m currently working as Data Engineer at Bayer Crop Science, in the R&D team, in Brazil.
 
 - 👀 Looking for networking and putting all my efforts into finding a job opportunity abroad, move to another country and have new experiences.
 
