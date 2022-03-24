@@ -4,9 +4,9 @@
 
 - 🚀 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🌱 I’m currently working as Data Engineer at Bayer Crop Science, in the R&D team.
+- 🌱 I’m currently working as Data Engineer at Arbit, an IT Consulting company.
 
-- 👀 Based in Brazil. Looking for networking and putting all my efforts into finding a job opportunity abroad, move to another country and have new experiences.
+- 👀 Based in Brazil. Looking for networking and putting all my efforts to achieve my goal of becoming a digital nomad.
 
 ## Reach Me Out: 
 [![Linkedin Badge](https://img.shields.io/badge/-Danillo%20Rodrigues-0099ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danillo-rodrigues/)](https://www.linkedin.com/in/danillo-rodrigues/) 
