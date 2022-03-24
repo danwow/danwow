@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-- 🤓 My name is Danillo R. Silva, I'm from Brazil and I'm a Biomedical Engineer that has been working with software development, data science and data engineering since 2018.
+- 🤓 My name is Danillo Silva, I'm from Brazil and I'm a Biomedical Engineer that has been working with software development, data science and data engineering since 2018.
 
 - 🚀 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
